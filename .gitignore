@@ -54,3 +54,4 @@ captures/
 .settings/
 .gitignore.swp
 test-result/
+tmp/
